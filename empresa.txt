@@ -2,3 +2,6 @@ Empresa de sistemas: Ninesyscompany
 Empresa de venda na internet: NinesysInternet
 
 linhas novas adicionadas pelo not
+
+
+linhas para a versao 2.0
