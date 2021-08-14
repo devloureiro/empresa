@@ -1,4 +1,5 @@
 <?php
+// conexao para banco de dados php 8
 $servername = "localhost";
 $database = "databasename";
 $username = "username";
